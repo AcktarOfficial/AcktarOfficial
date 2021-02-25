@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center" style="font-weight: bold;">👋 I'm Acktar!</h1>
 
-<!--
-**AcktarOfficial/AcktarOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">I'm an all-round javascript and php backend developer located in Mauritius🇲🇺!</h2>
 
-Here are some ideas to get you started:
+<h4 align="center">Check out my website https://acktardevs.com for my recent work.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+ [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com) 
+
+<br><br>
+
+Here is some simple info about me!
+
+- 👑 Executive Director at Infinitynodes Hosting
+
+- 👨‍💻 Learning Java   [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://acktardevs.com)
+
+- 💭 Reach me on discord! `Acktar#6724`
+
+- 🌐 Check my Website by [clicking here](https://acktardevs.com)
+
+- 💻 Computer Science Student at [Forest Side SSS](FSB MRU)
+
+<br><br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=acktarofficial&show_icons=true&theme=radical" alt="My github stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acktarofficial&layout=compact&theme=radical" style="float:right" />
+
