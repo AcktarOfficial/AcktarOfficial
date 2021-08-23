@@ -4,23 +4,19 @@
 
 <h4 align="center">Check out my website https://acktardevs.com for my recent work.</h4>
 
- 
-
- [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com) 
-
 <br><br>
 
 Here is some simple info about me!
 
-- 👑 Executive Director at Infinitynodes Hosting
+- 👑 Executive Director at Hellnodes Hosting
 
-- 👨‍💻 Learning Java   [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://acktardevs.com)
+- 👨‍💻 Learning Software Engineering at Mauritius Institute Of Training and Development (MITD) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://acktardevs.com)
 
 - 💭 Reach me on discord! `Acktar#6724`
 
 - 🌐 Check my Website by [clicking here](https://acktardevs.com)
 
-- 💻 Computer Science Student at [Forest Side SSS](FSB MRU)
+- 💻 Ex Student of [Forest Side SSS](FSB MRU)
 
 <br><br>
 
